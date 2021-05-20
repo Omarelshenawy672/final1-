@@ -1,0 +1,87 @@
+.navbar{
+    background:linear-gradient( #111 80% ,rgb(255, 0, 0))
+}
+.navbar .nav-link , .navbar-brand{
+    color: white;
+    font-weight: bold;
+}
+.navbar .nav-link:hover{
+    background-color: red;
+}
+section{
+    margin: 50px ,0px;
+}
+
+
+    
+.container-fluid h2{
+    margin-top: 50px;
+}
+.about h1 span {
+    color: #E41B17;
+}
+
+.container .img{
+    width: 20%;
+    height: 80%;
+}
+#about img{
+    height: 500px;
+    margin-left: 130px;
+
+}
+#about h1{
+    margin-top: 10px;
+    color: red;
+}
+#contactUs button {
+    background-color : black;
+    color: red;
+}
+#contactUs button:hover {
+    background-color : red;
+    color: white;
+}
+
+
+#nav-home-tab{
+    margin: 50px, 50px ;
+    text-align: center;
+}
+
+#contactUs img{
+    margin-top: 50px;
+    margin-left: 60px;
+}
+#row label{
+margin-top: 50px;
+
+}
+#footer{
+    margin-top: 350px;
+    background-color: black;
+    color: white;
+}
+#footer h6{
+    margin-top: 20px;
+}
+#ll .nav{
+    margin: auto;
+}
+#gallary nav{
+    
+    border-radius: 40px;
+}
+#gallary nav :hover{
+    border-radius: 30px;
+    
+    color: red;
+}
+#omaro {
+    width: 40%;
+    margin: auto;
+    background-color: black;
+}
+#gallary h1{
+    color: red;
+}
